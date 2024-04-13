@@ -9,13 +9,21 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/ubuntu": "^0.2.3",
+    "@gorhom/bottom-sheet": "^4.6.1",
     "expo": "~50.0.14",
+    "expo-contacts": "~12.8.2",
+    "expo-font": "~11.10.3",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-gesture-handler": "~2.14.0",
+    "react-native-reanimated": "~3.6.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
+    "@babel/types": "^7.24.0",
+    "@rocketseat/eslint-config": "^2.2.2",
     "@types/react": "~18.2.45",
     "typescript": "^5.4.5"
   },
